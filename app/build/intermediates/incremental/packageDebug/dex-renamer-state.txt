@@ -1,4 +1,4 @@
-#Sun Nov 12 08:58:15 WITA 2017
+#Sun Nov 12 15:15:02 WITA 2017
 base.0=/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

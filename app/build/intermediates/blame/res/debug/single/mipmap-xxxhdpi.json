@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/splash.png",
+        "source": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/src/main/res/mipmap-xxxhdpi/splash.png"
+    },
+    {
         "merged": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
         "source": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }

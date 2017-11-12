@@ -14,7 +14,8 @@
     <string name="error_title_not_found">Nie znaleziono tytułu: %1$s</string>
 
     <!-- AdMob ad unit IDs -->
-    <string name="banner_home_footer" translatable="false">ca-app-pub-3940256099942544/6300978111</string> Test Ad Unit
-    <string name="banner_home_footer_" translatable="false">ca-app-pub-5543468129947515/3696713491</string> viavallen
+    <string name="banner_home_footer_" translatable="false">ca-app-pub-3940256099942544/6300978111</string> Test Ad Unit
+    <string name="banner_home_footer" translatable="false">ca-app-pub-5543468129947515/3696713491</string> viavallen
+    <string name="banner_page_footer" translatable="false">ca-app-pub-5543468129947515/3328229593</string> viavallen 2
 
 </resources>

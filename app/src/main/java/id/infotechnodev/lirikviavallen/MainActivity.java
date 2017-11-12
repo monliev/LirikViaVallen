@@ -52,8 +52,8 @@ public class MainActivity extends ListActivity {
 		mAdView.loadAd(adRequest);
 
 		interstitial=new InterstitialAd(this);
-		//interstitial.setAdUnitId("ca-app-pub-5543468129947515/3797975218"); // viavallen
-		interstitial.setAdUnitId("ca-app-pub-3940256099942544/1033173712"); // test AdUnit
+		interstitial.setAdUnitId("ca-app-pub-5543468129947515/3797975218"); // viavallen
+		//interstitial.setAdUnitId("ca-app-pub-3940256099942544/1033173712"); // test AdUnit
 		interstitial.loadAd(adRequest);
 		//displayMyAd();
 

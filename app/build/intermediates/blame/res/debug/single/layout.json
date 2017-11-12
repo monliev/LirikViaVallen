@@ -172,6 +172,10 @@
         "source": "/Users/monliev/.android/build-cache/36d880440f1eba0ec1a4b10044599ecb0762b258/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/build/intermediates/res/merged/debug/layout/splash.xml",
+        "source": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/src/main/res/layout/splash.xml"
+    },
+    {
         "merged": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
         "source": "/Users/monliev/.android/build-cache/36d880440f1eba0ec1a4b10044599ecb0762b258/output/res/layout/notification_action_tombstone.xml"
     },
