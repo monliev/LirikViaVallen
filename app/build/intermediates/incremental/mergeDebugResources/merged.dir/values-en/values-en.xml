@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="displayModeNames">
+        <item>Text only</item>
+        <item>Sweep lyrics and chords</item>
+        <item>Scroll through the text and chords</item>
+    </string-array>
+    <string-array name="displayModeValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="fontSizeNames">
+        <item>Medium</item>
+        <item>Small</item>
+        <item>Large</item>
+    </string-array>
+    <string-array name="fontSizeValues">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string name="app_name">Via Vallen Lyrics</string>
+    <string name="display">Display Mode</string>
+    <string name="error_title_not_found">Song not found: %1$s</string>
+    <string name="menu_cancel">Cancel</string>
+    <string name="menu_ok">OK</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_transpose">Transpose</string>
+    <string name="szukaj">Search…</string>
+    <string name="text">Text Size</string>
+</resources>

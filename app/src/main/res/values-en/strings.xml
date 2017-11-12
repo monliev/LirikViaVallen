@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Via Vallen Lyrics</string>
+    <string name="error_title_not_found">Song not found: %1$s</string>
+    <string name="menu_ok">OK</string>
+    <string name="menu_cancel">Cancel</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_transpose">Transpose</string>
+    <string name="szukaj">Search…</string>
+    <string name="text">Text Size</string>
+    <string name="display">Display Mode</string>
+</resources>

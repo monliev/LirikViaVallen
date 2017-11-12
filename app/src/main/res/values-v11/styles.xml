@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- this customization is needed for the menu to work properly
+    on honeycomb & later devices without a physical menu button -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+    </style>
+
+</resources>

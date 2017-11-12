@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lirik Via Vallen</string>
+    <string name="error_title_not_found">Judul tidak ditemukan: %1$s</string>
+    <string name="menu_ok">OK</string>
+    <string name="menu_cancel">Batal</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="menu_transpose">Ubah Nada</string>
+    <string name="szukaj">Cari Lirik …</string>
+    <string name="text">Ukuran Huruf</string>
+    <string name="display">Mode Tampilan</string>
+</resources>

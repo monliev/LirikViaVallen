@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lirik Via Vallen</string>
+    
+    <string name="menu_settings">Ustawienia</string>
+    <string name="menu_transpose">Transponuj</string>
+    <string name="menu_ok">OK</string>
+    <string name="menu_cancel">Anuluj</string>
+    <string name="szukaj">Szukaj&#8230;</string>
+    <string name="display">Tryb wyświetlania</string>
+    <string name="text">Rozmiar tekstu</string>
+    
+    <string name="error_title_not_found">Nie znaleziono tytułu: %1$s</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer" translatable="false">ca-app-pub-3940256099942544/6300978111</string> Test Ad Unit
+    <string name="banner_home_footer_" translatable="false">ca-app-pub-5543468129947515/3696713491</string> viavallen
+
+</resources>
