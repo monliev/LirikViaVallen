@@ -32,6 +32,10 @@
         "source": "/Users/monliev/.android/build-cache/36d880440f1eba0ec1a4b10044599ecb0762b258/output/res/color-v23/abc_tint_default.xml"
     },
     {
+        "merged": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/monliev/.android/build-cache/9d79d8dea1ccb26fb0bf5819a301119ee27e6ff7/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
         "merged": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
         "source": "/Users/monliev/.android/build-cache/36d880440f1eba0ec1a4b10044599ecb0762b258/output/res/color-v23/abc_tint_switch_thumb.xml"
     },

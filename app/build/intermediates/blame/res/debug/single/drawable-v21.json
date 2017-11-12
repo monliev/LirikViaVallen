@@ -4,8 +4,24 @@
         "source": "/Users/monliev/.android/build-cache/36d880440f1eba0ec1a4b10044599ecb0762b258/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
+        "merged": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/monliev/.android/build-cache/9d79d8dea1ccb26fb0bf5819a301119ee27e6ff7/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/monliev/.android/build-cache/9d79d8dea1ccb26fb0bf5819a301119ee27e6ff7/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
         "merged": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
         "source": "/Users/monliev/.android/build-cache/36d880440f1eba0ec1a4b10044599ecb0762b258/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/monliev/.android/build-cache/9d79d8dea1ccb26fb0bf5819a301119ee27e6ff7/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/monliev/.android/build-cache/9d79d8dea1ccb26fb0bf5819a301119ee27e6ff7/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "/Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",

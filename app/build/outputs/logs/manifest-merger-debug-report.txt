@@ -50,9 +50,11 @@ MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/monlie
 MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/monliev/.android/build-cache/67be6fd966ac344fe3333e13796abde24c89fb98/output/AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/monliev/.android/build-cache/95cd70486c205e497897e5e2046023f9ce17cb6b/output/AndroidManifest.xml:18:5-19
 MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/monliev/.android/build-cache/06896d1bed480292a5951c76160b771323fb71bb/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:design:25.3.1] /Users/monliev/.android/build-cache/9d79d8dea1ccb26fb0bf5819a301119ee27e6ff7/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/monliev/.android/build-cache/36d880440f1eba0ec1a4b10044599ecb0762b258/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/monliev/.android/build-cache/3a97e7526d25ee416b2c014daf363cabbfce1bfc/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/monliev/.android/build-cache/864cd5e1a2f663eb7abf50d24347976eab26685d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/monliev/.android/build-cache/474aca0ec351fd149960922896a284eb48a5088b/output/AndroidManifest.xml:26:5-20
 MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/monliev/.android/build-cache/31f48a9408b6eed626946f938a414a43cba1dd7f/output/AndroidManifest.xml:19:5-29:19
 MERGED from [com.google.firebase:firebase-core:11.0.4] /Users/monliev/.android/build-cache/6f8b18de5f9271bc426d23d52d986368c6705d77/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/monliev/.android/build-cache/5f443d213e84b807939cb3a8c64128792507caf1/output/AndroidManifest.xml:24:5-34:19
@@ -132,9 +134,12 @@ MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/monlie
 MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/monliev/.android/build-cache/67be6fd966ac344fe3333e13796abde24c89fb98/output/AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/monliev/.android/build-cache/95cd70486c205e497897e5e2046023f9ce17cb6b/output/AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/monliev/.android/build-cache/06896d1bed480292a5951c76160b771323fb71bb/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:25.3.1] /Users/monliev/.android/build-cache/9d79d8dea1ccb26fb0bf5819a301119ee27e6ff7/output/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/monliev/.android/build-cache/36d880440f1eba0ec1a4b10044599ecb0762b258/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/monliev/.android/build-cache/3a97e7526d25ee416b2c014daf363cabbfce1bfc/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/monliev/.android/build-cache/864cd5e1a2f663eb7abf50d24347976eab26685d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/monliev/.android/build-cache/56c430a91877bb68d518cb45100b3a46d6e5fb08/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/monliev/.android/build-cache/474aca0ec351fd149960922896a284eb48a5088b/output/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/monliev/.android/build-cache/31f48a9408b6eed626946f938a414a43cba1dd7f/output/AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-core:11.0.4] /Users/monliev/.android/build-cache/6f8b18de5f9271bc426d23d52d986368c6705d77/output/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/monliev/.android/build-cache/5f443d213e84b807939cb3a8c64128792507caf1/output/AndroidManifest.xml:17:5-43
@@ -150,7 +155,7 @@ MERGED from [com.android.support:support-core-ui:25.3.1] /Users/monliev/.android
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/monliev/.android/build-cache/5c6b7cec7e72745bde26e2c90539ff8d0a4ece98/output/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.3.1] /Users/monliev/.android/build-cache/d5eea25c7e3e6f4940c8f73e3503080adece737b/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/monliev/.android/build-cache/36d880440f1eba0ec1a4b10044599ecb0762b258/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:design:25.3.1] /Users/monliev/.android/build-cache/9d79d8dea1ccb26fb0bf5819a301119ee27e6ff7/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/src/main/AndroidManifest.xml
 		INJECTED from /Volumes/Untitled/Project Android/Lirik Lagu/Lirik Via Vallen/app/src/main/AndroidManifest.xml
@@ -166,9 +171,12 @@ ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/monliev/.an
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/monliev/.android/build-cache/06896d1bed480292a5951c76160b771323fb71bb/output/AndroidManifest.xml:19:19-85
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/monliev/.android/build-cache/36d880440f1eba0ec1a4b10044599ecb0762b258/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] /Users/monliev/.android/build-cache/9d79d8dea1ccb26fb0bf5819a301119ee27e6ff7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/monliev/.android/build-cache/36d880440f1eba0ec1a4b10044599ecb0762b258/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/monliev/.android/build-cache/3a97e7526d25ee416b2c014daf363cabbfce1bfc/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/monliev/.android/build-cache/864cd5e1a2f663eb7abf50d24347976eab26685d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/monliev/.android/build-cache/56c430a91877bb68d518cb45100b3a46d6e5fb08/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/monliev/.android/build-cache/474aca0ec351fd149960922896a284eb48a5088b/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-v4:25.3.1] /Users/monliev/.android/build-cache/c86fbd5ff40cae5e5014b011fe83b3eaa6142776/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/monliev/.android/build-cache/d32db3dffaf427f7dac4a14b4c83d790b2ed4510/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/monliev/.android/build-cache/a5c0f7eeff7c3fd0388199f2007fcba28fe99f12/output/AndroidManifest.xml:25:5-27:34
@@ -176,9 +184,9 @@ MERGED from [com.android.support:support-core-ui:25.3.1] /Users/monliev/.android
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/monliev/.android/build-cache/5c6b7cec7e72745bde26e2c90539ff8d0a4ece98/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-compat:25.3.1] /Users/monliev/.android/build-cache/d5eea25c7e3e6f4940c8f73e3503080adece737b/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/monliev/.android/build-cache/36d880440f1eba0ec1a4b10044599ecb0762b258/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] /Users/monliev/.android/build-cache/9d79d8dea1ccb26fb0bf5819a301119ee27e6ff7/output/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/monliev/.android/build-cache/36d880440f1eba0ec1a4b10044599ecb0762b258/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] /Users/monliev/.android/build-cache/9d79d8dea1ccb26fb0bf5819a301119ee27e6ff7/output/AndroidManifest.xml:26:9-47
 service#com.google.firebase.messaging.FirebaseMessagingService
 ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/monliev/.android/build-cache/31f48a9408b6eed626946f938a414a43cba1dd7f/output/AndroidManifest.xml:23:9-27:19
 	android:exported
